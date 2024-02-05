@@ -5,7 +5,7 @@
  
 -	Dataset named “Crop_recommendation.csv” can be found inside the zip file.
 -	Jupyter Notebook runnable file is inside ipynb-Jupyter Notebook folder
--	
+  
 **Library Installation:**
  	
 -	Install the following libraries using pip install command from anaconda command shell.
